@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "738398377549",
-    "firebase_url": "https://android-login-screen-53a08.firebaseio.com",
-    "project_id": "android-login-screen-53a08",
-    "storage_bucket": "android-login-screen-53a08.appspot.com"
+    "project_number": "CHANGE IT!!!",
+    "firebase_url": "CHANGE IT!!!",
+    "project_id": "CHANGE IT!!!",
+    "storage_bucket": "CHANGE IT!!!"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:738398377549:android:7cd309b79152ac73a0ee04",
+        "mobilesdk_app_id": "CHANGE IT!!!",
         "android_client_info": {
           "package_name": "com.sevketbuyukdemir.firebaseloginapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "738398377549-kcbkik4rogflk7at62hv36sa4o7t39b7.apps.googleusercontent.com",
+          "client_id": "CHANGE IT!!!",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC4978dOjHWYq-LUSqwEsLdORIiXdDTZQg"
+          "current_key": "CHANGE IT!!!"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "738398377549-kcbkik4rogflk7at62hv36sa4o7t39b7.apps.googleusercontent.com",
+              "client_id": "CHANGE IT!!!",
               "client_type": 3
             }
           ]
